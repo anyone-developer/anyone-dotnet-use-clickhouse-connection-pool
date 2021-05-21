@@ -6,7 +6,7 @@ https://github.com/Octonica/ClickHouseClient
 This repo would bundle nuget package. Anyone can reference it from *nuget.org*.
 
 nuget package:
-https://www.nuget.org/packages/AnyoneDeveloper.Grpc.UI/#
+https://www.nuget.org/packages/AnyoneDeveloper.ClickHouse.ConnectionPool/
 
 *If you like my module, please buy me a coffee.*
 
