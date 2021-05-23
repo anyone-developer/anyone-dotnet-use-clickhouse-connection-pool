@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repository\EPoolMode\" />
+    <Folder Include="Repository\ePoolMode\" />
     <Folder Include="Repository\PoolMode\" />
   </ItemGroup>
 
